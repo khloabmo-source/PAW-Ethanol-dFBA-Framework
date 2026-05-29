@@ -1,0 +1,6 @@
+metric,ControllerA_ALCD2x,ControllerB
+fold-change iJO1366,1.0,1.169
+fold-change iML1515,1.037,1.269
+EtOH @baseline iJO (mM),18.0,18.0
+EtOH @0.60 iJO (mM),7.85,21.05
+note,collapse (EtOH falls),redistribution (EtOH rises)

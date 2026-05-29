@@ -1,0 +1,9 @@
+GSMM,AdhE_inhibition,I_AdhE_at_op,fold_fastdecay,astar_fastdecay,fold_sustained,astar_sustained
+iJO1366,none,1.0,1.169,0.6,1.169,0.6
+iJO1366,moderate,0.5,1.156,0.6,1.103,0.4
+iJO1366,strong,0.308,1.145,0.6,1.059,0.3
+iJO1366,severe,0.1,1.123,0.5,1.008,0.1
+iML1515,none,1.0,1.266,0.6,1.266,0.6
+iML1515,moderate,0.5,1.241,0.6,1.163,0.4
+iML1515,strong,0.308,1.227,0.5,1.111,0.3
+iML1515,severe,0.1,1.193,0.5,1.043,0.1

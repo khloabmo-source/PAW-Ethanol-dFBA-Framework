@@ -1,0 +1,122 @@
+{
+  "table2": [
+    {
+      "chassis": "WT",
+      "gsmm": "iJO1366",
+      "EtOH": 18.0,
+      "Ac": 17.1,
+      "yield": 0.84,
+      "X": 0.55
+    },
+    {
+      "chassis": "KO11",
+      "gsmm": "iJO1366",
+      "EtOH": 18.0,
+      "Ac": 17.1,
+      "yield": 0.84,
+      "X": 0.55
+    },
+    {
+      "chassis": "LY160",
+      "gsmm": "iJO1366",
+      "EtOH": 26.4,
+      "Ac": 0.2,
+      "yield": 1.65,
+      "X": 0.36
+    },
+    {
+      "chassis": "WT",
+      "gsmm": "iML1515",
+      "EtOH": 11.0,
+      "Ac": 10.7,
+      "yield": 0.89,
+      "X": 0.24
+    },
+    {
+      "chassis": "KO11",
+      "gsmm": "iML1515",
+      "EtOH": 11.0,
+      "Ac": 10.7,
+      "yield": 0.89,
+      "X": 0.24
+    },
+    {
+      "chassis": "LY160",
+      "gsmm": "iML1515",
+      "EtOH": 17.4,
+      "Ac": 0.1,
+      "yield": 1.79,
+      "X": 0.16
+    }
+  ],
+  "fig1_fold": {
+    "WT_iJO": 1.169,
+    "KO11_iJO": 1.169,
+    "LY160_iJO": 1.0,
+    "WT_iML": 1.269,
+    "KO11_iML": 1.269,
+    "LY160_iML": 1.0
+  },
+  "fig1_peak": {
+    "WT_iJO": 21.05,
+    "WT_iML": 14.0
+  },
+  "fig1_pct": {
+    "iJO": 16.9,
+    "iML": 26.9
+  },
+  "crossGSMM_baseline_ratio": 1.63,
+  "sec34_iJO": {
+    "Ac": "17.07\u21925.50 (68%)",
+    "For": "36.00\u219212.22 (66%)",
+    "yield": "0.84\u21921.33"
+  },
+  "sec34_iML": {
+    "Ac": "10.68\u21923.36 (69%)",
+    "For": "22.06\u21927.18 (67%)",
+    "yield": "0.89\u21921.45"
+  },
+  "sec35": {
+    "WT_iJO": {
+      "mean": 20.85,
+      "SD": 1.22,
+      "CV": 5.8,
+      "P5": 19.23,
+      "P95": 22.98,
+      "safe": 100
+    },
+    "WT_iML": {
+      "mean": 13.84,
+      "SD": 0.78,
+      "CV": 5.6,
+      "safe": 100
+    },
+    "LY160_iJO": {
+      "mean": 24.66,
+      "CV": 2.5,
+      "safe": 100
+    },
+    "LY160_iML": {
+      "mean": 16.38,
+      "CV": 2.5,
+      "safe": 100
+    }
+  },
+  "sec38_adversarial": {
+    "nominal": 1.169,
+    "AS1": 1.001,
+    "AS2": 1.169,
+    "AS3": 1.169
+  },
+  "sec39_controllerA": {
+    "ALCD2x_iJO": 1.0,
+    "ACALD_iJO": 1.0,
+    "ALCD2x_iML": 1.037,
+    "ACALD_iML": 1.0
+  },
+  "sec39_controllerB": {
+    "iJO": 1.169,
+    "iML": 1.269,
+    "spread": 0.1
+  }
+}
